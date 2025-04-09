@@ -98,7 +98,7 @@
       amount: 3
   - type: Tag
     tags:
-    - Binglemind
+    - BingleMind 
 
 - type: entity
   id: MobBinglePrime
