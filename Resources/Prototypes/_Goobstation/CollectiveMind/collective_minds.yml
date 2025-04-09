@@ -71,3 +71,11 @@
   color: "#c18851"
   requiredTags:
   - MouseMind
+
+- type: collectiveMind
+  id: Binglemind
+  name: collective-mind-binglemind
+  keycode: 'v'
+  color: "#346391"
+  requiredTags:
+  - Binglemind

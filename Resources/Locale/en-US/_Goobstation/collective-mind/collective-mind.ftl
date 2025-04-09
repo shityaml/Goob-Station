@@ -7,3 +7,4 @@ collective-mind-abductormind = Glorpmind
 collective-mind-binary = Binary
 collective-mind-mousemind = Piepmind
 collective-mind-dronemind = Dronemind
+collective-mind-binglemind = Binglemind

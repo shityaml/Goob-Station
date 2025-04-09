@@ -96,6 +96,9 @@
     spawned:
     - id: FoodMeatBingle
       amount: 3
+  - type: Tag
+    tags:
+    - Binglemind
 
 - type: entity
   id: MobBinglePrime
